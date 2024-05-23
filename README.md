@@ -1,7 +1,6 @@
 ### Olá! Eu sou André Luiz 👋🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-0b25a7277/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andre.luiz2@academico.ufpb.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreluiznt01/)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluiznt&show_icons=true&theme=dracula)
