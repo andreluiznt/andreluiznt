@@ -1,9 +1,7 @@
 ### Olá! Eu sou André Luiz 👋🏾
 
 Estudante de **Engenharia de Computação** na Universidade Federal da Paraíba (**UFPB**).<br/>
-Apaixonado por tecnologia e sempre disposto a aprender algo novo. Além das tecnologias que já conheço<br/>
-estou sempre aprimorando minhas habilidades estudando tecnologias novas/diferentes. Gosto muito da área<br/>
-de **Visão Computacional** e tenho um pouco de conhecimento - estou estudando - em **OpenCV**.
+sou um entusiasta por tecnologia e sempre em busca de aprender algo novo. Além de expandir meus conhecimentos nas tecnologias que já domino, estou sempre me aperfeiçoando e explorando novas áreas, como Visão Computacional, um campo que me fascina. Tenho interesse em aplicar meus conhecimentos em soluções inovados e estou sempre disposto a enfrentar novos desafios no mundo da tecnologia.
 
 ## Me encontre nas Redes Sociais
 
