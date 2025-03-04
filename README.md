@@ -1,12 +1,11 @@
 ### Olá! Eu sou André Luiz 👋🏾
 
-Estudante de **Engenharia de Computação** na Universidade Federal da Paraíba (**UFPB**).<br/>
-sou um entusiasta por tecnologia e sempre em busca de aprender algo novo. Além de expandir meus conhecimentos nas tecnologias que já domino, estou sempre me aperfeiçoando e explorando novas áreas, como Visão Computacional, um campo que me fascina. Tenho interesse em aplicar meus conhecimentos em soluções inovados e estou sempre disposto a enfrentar novos desafios no mundo da tecnologia.
+Estudante de **Engenharia de Computação** na Universidade Federal da Paraíba (**UFPB**).<br/> Entusiasta por tecnologia e sempre em busca de aprender algo novo. Além de expandir meus conhecimentos nas tecnologias que já domino, estou sempre me aperfeiçoando e explorando novas áreas, como Visão Computacional, um campo que me fascina. Tenho interesse em aplicar meus conhecimentos em soluções inovadoras e estou sempre disposto a enfrentar novos desafios no mundo da tecnologia.
 
 ## Me encontre nas Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-0b25a7277/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreluiznt01/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreluisnct/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiznt&layout=compact)](https://github.com/andreluiznt/github-readme-stats)
 
