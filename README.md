@@ -4,7 +4,7 @@ Estudante de **Engenharia de Computação** na Universidade Federal da Paraíba 
 
 ## Me encontre nas Redes Sociais
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-0b25a7277/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreluiznt/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andreluisnct/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiznt&layout=compact)](https://github.com/andreluiznt/github-readme-stats)
